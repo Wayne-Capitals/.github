@@ -69,6 +69,8 @@ Prefixes:
 
 **Chore:** for minor changes and maintenance
 
+**Begins** for first commit
+
 
 
 ### 4️⃣ Code Review & PRs
