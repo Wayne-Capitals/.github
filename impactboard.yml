@@ -1,0 +1,4 @@
+readme:
+  enabled: true
+  path: "profile/README.md"
+  section: "## 🏆 Top Contributors"
