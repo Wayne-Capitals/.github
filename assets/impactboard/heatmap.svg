@@ -28,7 +28,7 @@
             Dec
           </text>
         
-          <text x="84" y="55" 
+          <text x="98" y="55" 
                 font-family="Inter, sans-serif" 
                 font-size="10" 
                 fill="#24292f" 
@@ -100,7 +100,7 @@
             Sep
           </text>
         
-          <text x="630" y="55" 
+          <text x="644" y="55" 
                 font-family="Inter, sans-serif" 
                 font-size="10" 
                 fill="#24292f" 
