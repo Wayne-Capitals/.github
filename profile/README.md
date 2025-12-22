@@ -9,12 +9,12 @@ Welcome to the Wayne Capitals GitHub organization.
 ## 🌟 Contributor Spotlight
 
 
-🔥 **{{IMPACTBOARD:USER.TOP(1).username}}**
+🔥 **@ReWar1311**
 
 
-- Commits (30 days): {{IMPACTBOARD:USER.TOP(1).commits}}
-- PRs merged: {{IMPACTBOARD:USER.TOP(1).prs}}
-- Current streak: {{IMPACTBOARD:USER.TOP(1).streak}} days
+- Commits (30 days): 2
+- PRs merged: 0
+- Current streak: 1 days
 
 
 ---
@@ -23,11 +23,11 @@ Welcome to the Wayne Capitals GitHub organization.
 ## 🥈 Rising Contributor
 
 
-**{{IMPACTBOARD:USER.TOP(2).username}}** has contributed:
+**@Sujas-Aggarwal** has contributed:
 
 
-- {{IMPACTBOARD:USER.TOP(2).commits}} commits
-- {{IMPACTBOARD:USER.TOP(2).loc_added}} lines of code added
+- 1 commits
+- 7 lines of code added
 
 
 ---
@@ -46,10 +46,10 @@ Welcome to the Wayne Capitals GitHub organization.
 ## 🧠 Impact Narrative
 
 
-This month, {{IMPACTBOARD:USER.TOP(1).username}} led the team with an impact score of {{IMPACTBOARD:USER.TOP(1).impact}}.
+This month, @ReWar1311 led the team with an impact score of 3.
 
 
-Their consistency is reflected in a {{IMPACTBOARD:USER.TOP(1).streak}}‑day contribution streak.
+Their consistency is reflected in a 1‑day contribution streak.
 
 
 ---
