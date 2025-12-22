@@ -59,7 +59,7 @@
     <rect x="200" y="8" width="510" height="14" rx="7" fill="url(#barGradient)" class="bar-fill" style="animation-delay: 0s"/>
     
     <!-- Score Text -->
-    <text x="720" y="19" class="leaderboard-score">4 pts</text>
+    <text x="720" y="19" class="leaderboard-score">5 pts</text>
   </g>
 
   <g transform="translate(0, 105)">
@@ -83,7 +83,7 @@
     <rect x="200" y="8" width="510" height="14" rx="7" fill="#eaeef2"/>
     
     <!-- Score Bar Fill -->
-    <rect x="200" y="8" width="131.81159420289856" height="14" rx="7" fill="url(#barGradient)" class="bar-fill" style="animation-delay: 0.1s"/>
+    <rect x="200" y="8" width="103.94285714285715" height="14" rx="7" fill="url(#barGradient)" class="bar-fill" style="animation-delay: 0.1s"/>
     
     <!-- Score Text -->
     <text x="720" y="19" class="leaderboard-score">1 pts</text>
