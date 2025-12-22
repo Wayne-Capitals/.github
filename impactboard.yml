@@ -1,51 +1,51 @@
 version: v1
-mode: full
+  mode: full
 
 
 readme:
-file: .github/profile/README.md
+  file: .github/profile/README.md
 
 
 allow:
-entities: [USER, ORG]
+  entities: [USER, ORG]
 
 
 user_selectors:
-top_max: 5
-allow_username: true
+  top_max: 5
+  allow_username: true
 
 
 fields:
-- username
-- commits
-- prs
-- streak
-- loc_added
-- impact
+  - username
+  - commits
+  - prs
+  - streak
+  - loc_added
+  - impact
 
 
 max_placeholders: 50
 
 
 data:
-windows:
-default: 30d
-allowed: [7d, 30d, all]
+  windows:
+    default: 30d
+    allowed: [7d, 30d, all]
 
 
 privacy:
-default_visibility: public
+  default_visibility: public
 
 
 advanced:
-anti_gaming:
-min_loc_change: 5
-max_commits_per_day: 10
+  anti_gaming:
+  min_loc_change: 5
+  max_commits_per_day: 10
 
 
 behavior:
-fail_on_invalid_config: true
+  fail_on_invalid_config: true
 
 
 logging:
-level: info
+  level: info
