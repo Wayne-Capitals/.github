@@ -4,7 +4,7 @@ mode: full
 
 readme:
   file: .github/profile/README.md
-  placeholder: file: .github/profile/README_TEMPLATE.md
+  placeholder: .github/profile/README_TEMPLATE.md
 
 
 allow:
