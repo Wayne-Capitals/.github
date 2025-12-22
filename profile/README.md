@@ -16,9 +16,9 @@ We believe in **impact over noise**.
 🔥 **@ReWar1311**
 
 
-- Commits (30 days): 3
+- Commits (30 days): 4
 - PRs merged: 0
-- Current streak: 1 days
+- Current streak: 2 days
 
 
 ---
@@ -50,10 +50,10 @@ We believe in **impact over noise**.
 ## 🧠 Impact Narrative
 
 
-This month, @ReWar1311 led the team with an impact score of 4.
+This month, @ReWar1311 led the team with an impact score of 5.
 
 
-Their consistency is reflected in a 1‑day contribution streak.
+Their consistency is reflected in a 2‑day contribution streak.
 
 ## Leaderboard
 ![Leaderboard](https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/leaderboard.svg)
