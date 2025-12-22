@@ -1,7 +1,7 @@
-# 🚀 Acme Engineering
+# 🚀 Wayne Capitals
 
 
-Welcome to the Acme Engineering GitHub organization.
+Welcome to the Wayne Capitals GitHub organization.
 
 
 We believe in **impact over noise**.
