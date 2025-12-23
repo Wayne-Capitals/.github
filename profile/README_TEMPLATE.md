@@ -55,10 +55,13 @@ This month, {{IMPACTBOARD:USER.TOP(1).username}} led the team with an impact sco
 
 Their consistency is reflected in a {{IMPACTBOARD:USER.TOP(1).streak}}‑day contribution streak.
 
+## Most Active Repos
+1. {{IMPACTBOARD:REPO.TOP(1).name}} - {{IMPACTBOARD:REPO.TOP(1).commits}} commits
+2. {{IMPACTBOARD:REPO.TOP(2).name}} - {{IMPACTBOARD:REPO.TOP(2).commits}} commits
+
 ## Leaderboard
-![Leaderboard]({{IMPACTBOARD:SVG.LEADERBOARD}})
+{{IMPACTBOARD:SVG.LEADERBOARD_THEMED}}
 
 ## Activity
-![Heatmap]({{IMPACTBOARD:SVG.HEATMAP}})
-
+{{IMPACTBOARD:SVG.HEATMAP_THEMED}}
 ---
