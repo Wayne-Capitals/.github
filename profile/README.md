@@ -16,9 +16,9 @@ We believe in **impact over noise**.
 🔥 **@ReWar1311**
 
 
-- Commits (30 days): 5
+- Commits (30 days): 6
 - PRs merged: 0
-- Current streak: 1 days
+- Current streak: 2 days
 
 
 ---
@@ -50,10 +50,10 @@ We believe in **impact over noise**.
 ## 🧠 Impact Narrative
 
 
-This month, @ReWar1311 led the team with an impact score of 6.
+This month, @ReWar1311 led the team with an impact score of 7.
 
 
-Their consistency is reflected in a 1‑day contribution streak.
+Their consistency is reflected in a 2‑day contribution streak.
 
 ## Most Active Repos
 1. {{IMPACTBOARD:REPO.TOP(1).name}} - {{IMPACTBOARD:REPO.TOP(1).commits}} commits
