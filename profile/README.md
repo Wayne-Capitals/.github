@@ -56,7 +56,7 @@ This month, @ReWar1311 led the team with an impact score of 7.
 Their consistency is reflected in a 2‑day contribution streak.
 
 ## Most Active Repos
-1. {{IMPACTBOARD:REPO.TOP(1).NAME}} - {{IMPACTBOARD:REPO.TOP(1).COMMITS}} commits
+1.  -  commits
 2.  -  commits
 
 ## Leaderboard
