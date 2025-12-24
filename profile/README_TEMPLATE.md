@@ -40,8 +40,8 @@ We believe in **impact over noise**.
 ## 📊 Team Snapshot
 
 
-- Active contributors: {{IMPACTBOARD:ORG.active_users}}
-- Total commits (30 days): {{IMPACTBOARD:ORG.total_commits}}
+- Active contributors: {{IMPACTBOARD:ORG.ACTIVE_USERS}}
+- Total commits (30 days): {{IMPACTBOARD:ORG.TOTAL_COMMITS}}
 
 
 ---
@@ -56,7 +56,7 @@ This month, {{IMPACTBOARD:USER.TOP(1).username}} led the team with an impact sco
 Their consistency is reflected in a {{IMPACTBOARD:USER.TOP(1).streak}}‑day contribution streak.
 
 ## Most Active Repos
-1. {{IMPACTBOARD:REPO.TOP(1).name}} - {{IMPACTBOARD:REPO.TOP(1).commits}} commits
+1. {{IMPACTBOARD:REPO.TOP(1).NAME}} - {{IMPACTBOARD:REPO.TOP(1).COMMITS}} commits
 2. {{IMPACTBOARD:REPO.TOP(2).name}} - {{IMPACTBOARD:REPO.TOP(2).commits}} commits
 
 ## Leaderboard
