@@ -60,8 +60,16 @@ Their consistency is reflected in a 2‑day contribution streak.
 2. {{IMPACTBOARD:REPO.TOP(2).name}} - {{IMPACTBOARD:REPO.TOP(2).commits}} commits
 
 ## Leaderboard
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/leaderboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/leaderboard.svg">
+  <img alt="Leaderboard" src="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/leaderboard.svg">
+</picture>
 
 ## Activity
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/heatmap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/heatmap.svg">
+  <img alt="Activity Heatmap" src="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/heatmap.svg">
+</picture>
 ---
