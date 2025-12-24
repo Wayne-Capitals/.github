@@ -7,7 +7,7 @@ readme:
 
 
 allow:
-  entities: [USER, ORG]
+  entities: [USER, ORG, SVG, REPO]
 
 
 user_selectors:
