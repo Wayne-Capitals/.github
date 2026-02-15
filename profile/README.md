@@ -73,3 +73,25 @@ Their consistency is reflected in a 2‑day contribution streak.
   <img alt="Activity Heatmap" src="https://raw.githubusercontent.com/Wayne-Capitals/.github/main/assets/impactboard/heatmap.svg">
 </picture>
 ---
+
+
+## 🏆 Leaderboard
+
+<!-- IMPACT-BOARD:LEADERBOARD:START -->
+<!-- IMPACT-BOARD:LEADERBOARD:END -->
+
+
+## 🔥 Streaks
+
+<!-- IMPACT-BOARD:STREAKS:START -->
+<!-- IMPACT-BOARD:STREAKS:END -->
+
+
+## 🏅 Awards
+
+<!-- IMPACT-BOARD:AWARDS:START -->
+<!-- IMPACT-BOARD:AWARDS:END -->
+
+
+<!-- IMPACT-BOARD:TIMESTAMP:START -->
+<!-- IMPACT-BOARD:TIMESTAMP:END -->
